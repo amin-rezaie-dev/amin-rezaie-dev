@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Amin Rezaie
 
-<!--
-**amin-rezaie-dev/amin-rezaie-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer • DevOps Engineer • Blockchain Architect
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a hands-on technical leader with 7+ years of experience building scalable software platforms, leading cross-functional teams, and bridging business strategy with engineering excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🧑‍💻 Built and scaled enterprise ERP/BPMS platforms using **Nest.js**, **Next.js**, and clean architecture  
+- 🛠️ Architected a **crypto trading platform** with **Kafka**, **Golang**, **Kubernetes**, and **Solidity**  
+- 🧪 Passionate about **DevOps**, **blockchain**, **microservices**, and **team leadership**  
+- 🌍 Open to **collaborations**, **mentoring**, and **innovative technical challenges**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+`TypeScript` | `JavaScript` | `C#` | `Golang` | `Python` | `Solidity` | `PHP` | `C/C++`
+
+**Frontend:**  
+`React` | `Next.js` | `Vue` | `Nuxt.js` | `Bootstrap` | `Storybook`
+
+**Backend:**  
+`Nest.js` | `.NET` | `Express` | `Laravel` | `Kafka` | `Prisma` | `PostgreSQL` | `MongoDB`
+
+**DevOps & Tools:**  
+`Docker` | `Kubernetes` | `Jenkins` | `CI/CD` | `ELK` | `Git` | `Nx` | `Swagger`
+
+**Others:**  
+`Blockchain` | `Smart Contracts` | `Machine Learning` | `Kafka` | `OpenCV`
